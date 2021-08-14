@@ -12,7 +12,7 @@
   
 <p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=namerlight&show_icons=true" alt="namerlight" /> </p> 
 
-<p align="center">    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namerlight)](https://github.com/anuraghazra/github-readme-stats)   </p> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namerlight)](https://github.com/anuraghazra/github-readme-stats)
 
  <br>
 <p align="center">  

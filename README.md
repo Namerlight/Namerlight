@@ -2,7 +2,10 @@
 <h4 align="justify">A writer and recently-graduated Computer Science student from North South University. I work with Fuzzy Systems and Computer Vision. I also hope to publish fantasy and science-fiction novels someday!</h4>  
  <br>
   
-<img src="https://github.com/Namerlight/Namerlight/blob/master/assets/github_logo.svg"/>
+<p> <img src="https://github.com/Namerlight/Namerlight/blob/master/assets/github_logo.svg"/> </p>
+
+<p> <img src="https://github.com/Namerlight/Namerlight/blob/master/assets/js_logo.svg"/><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/.svg"/><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/firebase_logo.svg"/> </p>
+
   
 - 💬 Feel free to ask me about **Fuzzy Logic**  
   

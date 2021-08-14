@@ -4,7 +4,7 @@
   
 <p> <img src="https://github.com/Namerlight/Namerlight/blob/master/assets/github_logo.svg"/> </p>
 
-<p> <img src="https://github.com/Namerlight/Namerlight/blob/master/assets/js_logo.svg"/><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/js_text.svg"/><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/firebase_logo.svg"/> </p>
+<p> <img src="https://github.com/Namerlight/Namerlight/blob/master/assets/js_logo.svg"/><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/js_logo.svg"/><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/firebase_logo.svg"/> </p>
 
   
 - 💬 Feel free to ask me about **Fuzzy Logic**  

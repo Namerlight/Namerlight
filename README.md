@@ -2,7 +2,7 @@
 <h4 align="justify">A writer and recently-graduated Computer Science student from North South University. I work with Fuzzy Systems and Computer Vision. I also hope to publish fantasy and science-fiction novels someday!</h4>  
  <br>
   
-- <p> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <h5> All of my projects are available **right here!** </h5> </p>
+- <p> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <h8> All of my projects are available **right here!** </h8> </p>
   
 - 💬 Feel free to ask me about **Fuzzy Logic**  
   

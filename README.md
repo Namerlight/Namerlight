@@ -2,22 +2,23 @@
 <h4 align="justify">A writer and recently-graduated Computer Science student from North South University. I work with Fuzzy Systems and Computer Vision. I also hope to publish fantasy and science-fiction novels someday!</h4>  
  <br>
   
-<p> <img src="https://github.com/Namerlight/Namerlight/blob/master/assets/github_logo.svg"/> </p>
+- 👨‍💻 All of my projects are available **right here!**
 
-<p> <img src="https://github.com/Namerlight/Namerlight/blob/master/assets/js_logo.svg"/><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/js_text.svg"/><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/firebase_logo.svg"/> </p>
+- 👀 I enjoy working with **Computer Vision** and **Deep Learning**
 
-  
-- 💬 Feel free to ask me about **Fuzzy Logic**  
-  
-- ⚡ Fun fact **I'm a cyborg! Well, on a technicality.**  
+- 💬 Feel free to ask me about **Fuzzy Logic**
 
-    <br>
+- 🕸️ I also do some **Web Dev** using JavaScript
+
+- ⚡ Fun fact **I'm a cyborg! Well, on a technicality**
+
+<br>
   
 <p align="center">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namerlight" alt="namerlight" /> </p> 
 <p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=namerlight&show_icons=true" alt="namerlight" /> </p> 
 
 
- <br>
+<br>
 <p align="center">  
 <a href="https://dev.to/namerlights" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="namerlights" height="50" width="150" /></a>  
 <a href="https://twitter.com/namerlight" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="namerlight" height="50" width="150" /></a>  

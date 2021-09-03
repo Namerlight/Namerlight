@@ -1,6 +1,5 @@
 <h1 align="justify">I'm Shadab</h1>  
-<h4 align="justify">A writer and recently-graduated Computer Science student from North South University. I work with Fuzzy Systems and Computer Vision. I also hope to publish fantasy and science-fiction novels someday!</h4>  
- <br>
+<h4 align="justify">A writer and recently-graduated Computer Science student from North South University. I work with Fuzzy Systems and Computer Vision. I am an aspiring researcher and hopeful writer</h4>  
   
 - 👨‍💻 All of my projects are available **right here!**
 

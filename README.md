@@ -16,10 +16,10 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namerlight&langs_count=3" alt="namerlight" /> <img src="https://github-readme-stats.vercel.app/api?username=namerlight&show_icons=true" alt="namerlight" /> </p> 
 <p align="center">    </p> 
 
-<a href="https://github.com/Namerlight/Namerlight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namerlight&langs_count=3" />
+<a align="center" href="https://github.com/Namerlight/Namerlight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namerlight&langs_count=6&layout=compact" />
 </a>
-<a href="https://github.com/Namerlight/Namerlight">
+<a align="center" href="https://github.com/Namerlight/Namerlight">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=namerlight&show_icons=true" />
 </a>
 

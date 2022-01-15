@@ -13,7 +13,7 @@
 
 <br>
   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namerlight&langs_count=6&layout=compact&theme=ayu-mirage&card_width=70" alt="namerlight" /> <img src="https://github-readme-stats.vercel.app/api?username=namerlight&show_icons=true&hide=contribs&line_height=24&theme=ayu-mirage" alt="namerlight" /> </p> 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namerlight&langs_count=6&layout=compact&theme=ayu-mirage&card_width=170" alt="namerlight" /> <img src="https://github-readme-stats.vercel.app/api?username=namerlight&show_icons=true&hide=contribs&line_height=24&theme=ayu-mirage" alt="namerlight" /> </p> 
 <p align="center">    </p> 
 
 

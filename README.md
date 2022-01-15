@@ -13,8 +13,8 @@
 
 <br>
   
-<p align="center">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namerlight&langs_count=4" alt="namerlight" /> </p> 
-<p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=namerlight&show_icons=true" alt="namerlight" /> </p> 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namerlight&langs_count=4" alt="namerlight" /> <img src="https://github-readme-stats.vercel.app/api?username=namerlight&show_icons=true" alt="namerlight" /> </p> 
+<p align="center">    </p> 
 
 
 <br>

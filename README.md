@@ -1,5 +1,7 @@
 <h1 align="justify">Hi! I'm Shadab</h1>  
 <h4 align="justify">A recently-graduated Computer Science student from North South University, currently working as a Data Scientist and as a part-time Research Assistant. I work with Fuzzy Systems and Computer Vision. I am an aspiring researcher and hopeful writer.</h4>  
+
+<hr />
   
 ![](https://github.com/Namerlight/Namerlight/blob/master/assets/Allofmyprojectsareavailablerighthereonmy.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 

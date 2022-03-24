@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="411.25" height="28" role="img" aria-label="ALL OF MY PROJECTS ARE AVAILABLE RIGHT HERE ON MY"><title>ALL OF MY PROJECTS ARE AVAILABLE RIGHT HERE ON MY</title><g shape-rendering="crispEdges"><rect width="411.25" height="28" fill="#1f2430"/></g><g fill="#f4cd7c" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="2056.25" y="175" textLength="3872.5" fill="#f4cd7c" font-weight="bold">ALL OF MY PROJECTS ARE AVAILABLE RIGHT HERE ON MY</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="411.25" height="28" role="img" aria-label="ALL OF MY PROJECTS ARE AVAILABLE RIGHT HERE ON MY">
+    <title>
+        ALL OF MY PROJECTS ARE AVAILABLE RIGHT HERE ON MY
+    </title>
+    <g shape-rendering="crispEdges">
+        <rect width="411.25" height="28" fill="#1f2430" style="stroke:#ac0d0d; stroke-width:3;"/>
+    </g>
+    <g fill="#f4cd7c" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+        <text transform="scale(.1)" x="2056.25" y="175" textLength="3872.5" fill="#f4cd7c" font-weight="bold">
+            ALL OF MY PROJECTS ARE AVAILABLE RIGHT HERE ON MY
+        </text>
+    </g>
+</svg>

@@ -36,4 +36,4 @@
 
 <br>
 
-<h6 align="center">This profile is mostly done!</h4>  
+<h6 align="center">This profile is mostly done! It looks best of Light Default or Dark Default, btw.</h4>  

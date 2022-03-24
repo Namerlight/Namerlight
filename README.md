@@ -25,7 +25,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namerlight&langs_count=6&layout=compact&theme=ayu-mirage&card_width=290" alt="namerlight" /> <img src="https://github-readme-stats.vercel.app/api?username=namerlight&show_icons=true&hide=contribs&line_height=24.1&theme=ayu-mirage" alt="namerlight" /> </p> 
 <p align="center">    </p> 
 
-
 <br>
 <p align="center">  
 <a href="https://scholar.google.com.sg/citations?user=hU5jVnQAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="namerlights" height="50" width="150" /></a>  
@@ -36,4 +35,4 @@
 
 <br>
 
-<h6 align="center">This profile is mostly done! It looks best of Light Default or Dark Default, btw.</h4>  
+<h6 align="center">This profile is mostly done! It looks best on Light Default or Dark Default, btw.</h4>  

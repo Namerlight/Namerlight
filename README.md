@@ -2,21 +2,21 @@
 <h4 align="justify">A recently-graduated Computer Science student from North South University, currently working as a Data Scientist and as a part-time Research Assistant. I work with Fuzzy Systems and Computer Vision. I am an aspiring researcher and hopeful writer.</h4>  
 
   
-![](https://github.com/Namerlight/Namerlight/blob/master/assets/Allofmyprojectsareavailablerighthereonmy.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![](https://github.com/Namerlight/Namerlight/blob/master/assets/Allofmyprojectsareavailablerighthereonmy.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/github.svg)
 
 ![](https://github.com/Namerlight/Namerlight/blob/master/assets/MyresearchfocusisonDeepLearningandSoftComputing.svg)
 
 ![](https://github.com/Namerlight/Namerlight/blob/master/assets/I'malsoinvestedinAIEthicsandSustainability.svg)
 
-![](https://github.com/Namerlight/Namerlight/blob/master/assets/Myprimaryprogramminglanguagesare.svg)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![](https://github.com/Namerlight/Namerlight/blob/master/assets/Myprimaryprogramminglanguagesare.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/python.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/javascript.svg)
 
-![](https://github.com/Namerlight/Namerlight/blob/master/assets/ForDataScienceandDeepLearning,I'mproficientwith.svg)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://github.com/Namerlight/Namerlight/blob/master/assets/ForDataScienceandDeepLearning,I'mproficientwith.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/pytorch.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/numpy.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/pandas.svg)
 
-![](https://github.com/Namerlight/Namerlight/blob/master/assets/IalsodosomeFullStackWebDevelopment,whereIuse.svg)![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![](https://github.com/Namerlight/Namerlight/blob/master/assets/IalsodosomeFullStackWebDevelopment,whereIuse.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/svelte.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/react.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/firebase.svg)
 
-![](https://github.com/Namerlight/Namerlight/blob/master/assets/OtherplatformsandtechnologiesIplayaroundwithinclude.svg)![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![](https://github.com/Namerlight/Namerlight/blob/master/assets/OtherplatformsandtechnologiesIplayaroundwithinclude.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/qiskit.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/tensorflow.svg)
 
-![](https://github.com/Namerlight/Namerlight/blob/master/assets/Istan.svg)![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)![](https://github.com/Namerlight/Namerlight/blob/master/assets/Youwon'tseemeonotherIDEsifIcanhelpit.svg)
+![](https://github.com/Namerlight/Namerlight/blob/master/assets/Istan.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/pycharm.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/webstorm.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/Youwon'tseemeonotherIDEsifIcanhelpit.svg)
 
 ![](https://github.com/Namerlight/Namerlight/blob/master/assets/Funfacttime!I'macyborg!.svg)
 

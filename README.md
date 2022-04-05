@@ -4,21 +4,13 @@
   
 <p><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/Allofmyprojectsareavailablerighthereonmy.svg" alt="namerlight" /><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/github.svg" alt="namerlight" />
 </p>
-
 <p><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/MyresearchfocusisonDeepLearningandSoftComputing.svg" alt="namerlight" /></p>
-
 <p><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/I'malsoinvestedinAIEthicsandSustainability.svg" alt="namerlight" /></p>
-
 ![](https://github.com/Namerlight/Namerlight/blob/master/assets/Myprimaryprogramminglanguagesare.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/python.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/javascript.svg)
-
 ![](https://github.com/Namerlight/Namerlight/blob/master/assets/ForDataScienceandDeepLearning,I'mproficientwith.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/pytorch.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/numpy.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/pandas.svg)
-
 ![](https://github.com/Namerlight/Namerlight/blob/master/assets/IalsodosomeFullStackWebDevelopment,whereIuse.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/svelte.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/react.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/firebase.svg)
-
 ![](https://github.com/Namerlight/Namerlight/blob/master/assets/OtherplatformsandtechnologiesIplayaroundwithinclude.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/qiskit.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/tensorflow.svg)
-
 ![](https://github.com/Namerlight/Namerlight/blob/master/assets/Istan.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/pycharm.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/webstorm.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/Youwon'tseemeonotherIDEsifIcanhelpit.svg)
-
 ![](https://github.com/Namerlight/Namerlight/blob/master/assets/Funfacttime!I'macyborg!.svg)
 
 <br>

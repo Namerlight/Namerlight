@@ -25,8 +25,16 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namerlight&langs_count=6&layout=compact&theme=ayu-mirage&card_width=296" alt="namerlight" /> <img src="https://github-readme-stats.vercel.app/api?username=namerlight&show_icons=true&hide=contribs&line_height=24.1&theme=ayu-mirage" alt="namerlight" /> </p> 
 <p align="center">    </p> 
 
+
 <br>
-<p align="center">  
+<p align="center">
+<a href="https://scholar.google.com.sg/citations?user=hU5jVnQAAAAJ&hl=en" target="blank"><img align="center" src="https://www.shadabchy.com/assets/sch.svg" alt="namerlights" height="50" width="150" /></a>  
+<a href="https://twitter.com/namerlight" target="blank"><img align="center" src="https://www.shadabchy.com/assets/twt.svg" alt="namerlight" height="50" width="150" /></a>  
+<a href="https://linkedin.com/in/shadabchoudhury-namerlight" target="blank"><img align="center" src="https://www.shadabchy.com/assets/fb.svg" height="50" width="150" /></a>  
+<a href="https://fb.com/shadab.hafizchoudhury" target="blank"><img align="center" src="https://www.shadabchy.com/assets/lin.svg" height="50" width="150" /></a> 
+  
+  
+<p align="center">
 <a href="https://scholar.google.com.sg/citations?user=hU5jVnQAAAAJ&hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="namerlights" height="50" width="150" /></a>  
 <a href="https://twitter.com/namerlight" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="namerlight" height="50" width="150" /></a>  
 <a href="https://linkedin.com/in/shadabchoudhury-namerlight" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shadabchoudhury-namerlight" height="50" width="150" /></a>  

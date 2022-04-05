@@ -2,11 +2,13 @@
 <h4 align="justify">A recently-graduated Computer Science student from North South University, currently working as a Data Scientist and as a part-time Research Assistant. I work with Fuzzy Systems and Computer Vision. I am an aspiring researcher and hopeful writer.</h4>  
 
   
-<p>![](https://github.com/Namerlight/Namerlight/blob/master/assets/Allofmyprojectsareavailablerighthereonmy.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/github.svg)</p>
+<p>
+![](https://github.com/Namerlight/Namerlight/blob/master/assets/Allofmyprojectsareavailablerighthereonmy.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/github.svg)
+</p>
 
-<p>![](https://github.com/Namerlight/Namerlight/blob/master/assets/MyresearchfocusisonDeepLearningandSoftComputing.svg)</p>
+<p> ![](https://github.com/Namerlight/Namerlight/blob/master/assets/MyresearchfocusisonDeepLearningandSoftComputing.svg) </p>
 
-<p>![](https://github.com/Namerlight/Namerlight/blob/master/assets/I'malsoinvestedinAIEthicsandSustainability.svg)</p>
+<p> ![](https://github.com/Namerlight/Namerlight/blob/master/assets/I'malsoinvestedinAIEthicsandSustainability.svg) </p>
 
 ![](https://github.com/Namerlight/Namerlight/blob/master/assets/Myprimaryprogramminglanguagesare.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/python.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/javascript.svg)
 

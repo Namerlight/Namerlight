@@ -6,7 +6,7 @@
 ![](https://github.com/Namerlight/Namerlight/blob/master/assets/Allofmyprojectsareavailablerighthereonmy.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/github.svg)
 </p>
 
-<p> ![](https://github.com/Namerlight/Namerlight/blob/master/assets/MyresearchfocusisonDeepLearningandSoftComputing.svg) </p>
+<p><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/MyresearchfocusisonDeepLearningandSoftComputing.svg" alt="namerlight" /></p>
 
 <p> ![](https://github.com/Namerlight/Namerlight/blob/master/assets/I'malsoinvestedinAIEthicsandSustainability.svg) </p>
 

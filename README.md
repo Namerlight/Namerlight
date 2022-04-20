@@ -1,7 +1,5 @@
-<h1 align="justify">Hi! I'm Shadab</h1>  
-<h4 align="justify">A recently-graduated Computer Science student from North South University, currently working as a Data Scientist and as a part-time Research Assistant. I work with Fuzzy Systems and Computer Vision. I am an aspiring researcher and hopeful writer.</h4>  
+<p align="center"><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/carn.svg" alt="namerlight" /></p>
 
-  
 <p><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/Allofmyprojectsareavailablerighthereonmy.svg" alt="namerlight" /><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/github.svg" alt="namerlight"/></p>
 <p><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/MyresearchfocusisonDeepLearningandSoftComputing.svg" alt="namerlight" /></p>
 <p><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/I'malsoinvestedinAIEthicsandSustainability.svg" alt="namerlight" /></p>
@@ -17,8 +15,6 @@
 ![](https://github.com/Namerlight/Namerlight/blob/master/assets/Istan.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/pycharm.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/webstorm.svg)![](https://github.com/Namerlight/Namerlight/blob/master/assets/Youwon'tseemeonotherIDEsifIcanhelpit.svg)
 
 ![](https://github.com/Namerlight/Namerlight/blob/master/assets/Funfacttime!I'macyborg!.svg)
-
-<br>
   
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namerlight&langs_count=6&layout=compact&theme=ayu-mirage&card_width=296" alt="namerlight" /> <img src="https://github-readme-stats.vercel.app/api?username=namerlight&show_icons=true&hide=contribs&line_height=24.1&theme=ayu-mirage" alt="namerlight" /> </p> 
 <p align="center">    </p> 

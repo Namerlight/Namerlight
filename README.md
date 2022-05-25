@@ -22,10 +22,10 @@
 
 <br>
 <p align="center">
-<a href="https://scholar.google.com.sg/citations?user=hU5jVnQAAAAJ&hl=en" target="blank"><img align="center" src="https://personal-test-shc.herokuapp.com/sch.svg" alt="namerlights" height="50" width="150" /></a>  
-<a href="https://twitter.com/namerlight" target="blank"><img align="center" src="https://personal-test-shc.herokuapp.com/twt.svg" alt="namerlight" height="50" width="150" /></a>  
-<a href="https://linkedin.com/in/shadabchoudhury-namerlight" target="blank"><img align="center" src="https://personal-test-shc.herokuapp.com/lkin.svg" height="50" width="150" /></a>  
-<a href="https://fb.com/shadab.hafizchoudhury" target="blank"><img align="center" src="https://personal-test-shc.herokuapp.com/fb.svg" height="50" width="150" /></a>  
+<a href="https://scholar.google.com.sg/citations?user=hU5jVnQAAAAJ&hl=en" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/ehet-db.appspot.com/o/sch.svg?alt=media&token=8956f228-533b-459d-8a4a-211cb41884c3" alt="namerlights" height="50" width="150" /></a>  
+<a href="https://twitter.com/namerlight" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/ehet-db.appspot.com/o/twt.svg?alt=media&token=2ed33e2c-30c1-4c93-88f5-5a569c35e4e0" alt="namerlight" height="50" width="150" /></a>  
+<a href="https://linkedin.com/in/shadabchoudhury-namerlight" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/ehet-db.appspot.com/o/lkin.svg?alt=media&token=82b29ff6-7c33-46ba-9fa8-6757b34ae40d" height="50" width="150" /></a>  
+<a href="https://fb.com/shadab.hafizchoudhury" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/ehet-db.appspot.com/o/fb.svg?alt=media&token=30a4bf61-2a6e-447d-89c7-2db45f5f4ed9" height="50" width="150" /></a>  
 </p>
 
 <br>

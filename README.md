@@ -1,7 +1,9 @@
 <p align="center"><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/carn.svg" alt="namerlight" /></p>
 
 
-<img src="https://github.com/Namerlight/Namerlight/blob/master/assets/MyresearchfocusisonDeepLearningandSoftComputing.svg" alt="namerlight" /><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/I'malsoinvestedinAIEthicsandSustainability.svg" alt="namerlight" />
+<img src="https://github.com/Namerlight/Namerlight/blob/master/assets/MyresearchfocusisonDeepLearningandSoftComputing.svg" alt="namerlight" />
+
+<img src="https://github.com/Namerlight/Namerlight/blob/master/assets/I'malsoinvestedinAIEthicsandSustainability.svg" alt="namerlight" />
 
 <img src="https://github.com/Namerlight/Namerlight/blob/master/assets/Myprimaryprogramminglanguagesare.svg" alt="namerlight" /><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/python.svg" alt="namerlight" /><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/and.svg" alt="namerlight" /><img src="https://github.com/Namerlight/Namerlight/blob/master/assets/javascript.svg" alt="namerlight" /> 
 

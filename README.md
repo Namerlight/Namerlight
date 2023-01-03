@@ -21,6 +21,6 @@
 <p align="center">
 <a href="https://scholar.google.com.sg/citations?user=hU5jVnQAAAAJ&hl=en" target="blank"><img align="center" src="https://github.com/Namerlight/Namerlight/blob/master/assets/sch.svg" alt="Link to Google Scholar" height="50" width="150" /></a>  
 <a href="https://twitter.com/shcchy" target="blank"><img align="center" src="https://github.com/Namerlight/Namerlight/blob/master/assets/twt.svg" alt="Link to Twitter" height="50" width="150" /></a>  
-<a href="www.linkedin.com/in/shchy" target="blank"><img align="center" src="https://github.com/Namerlight/Namerlight/blob/master/assets/lkin.svg" alt="Link to Linkedin" height="50" width="150" /></a>  
+<a href="https://linkedin.com/in/shchy" target="blank"><img align="center" src="https://github.com/Namerlight/Namerlight/blob/master/assets/lkin.svg" alt="Link to Linkedin" height="50" width="150" /></a>  
 <a href="https://fb.com/shadab.hafizchoudhury" target="blank"><img align="center" src="https://github.com/Namerlight/Namerlight/blob/master/assets/fb.svg" alt="Link to Facebook" height="50" width="150" /></a>  
 </p>
